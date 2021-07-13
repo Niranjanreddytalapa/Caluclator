@@ -1,2 +1,3 @@
-# Caluclator
+# plots
+
 basic one 
